@@ -1,10 +1,10 @@
 # Site settings
 title: LambdaSpace
 email: info@lambdaspace.gr
-description: > 
+description: >
  Join a vibrant community of hackers
 baseurl: ""
-url: "https://lambdaspace.gr"
+url: "githubpages-boilerplate"
 twitter_username: lambdaspace
 github_username:  lambdaspace
 
